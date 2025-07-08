@@ -1,6 +1,5 @@
 # 📘 Website CMS Dũng Data
 
-![Vercel Deploy](https://vercel.com/api/badges/your-vercel-id/deploy-status)  
 [🔗 Truy cập website](https://website-cms-dung-data.vercel.app)
 
 Hệ thống website và CMS hiện đại cho **Dũng Data** – nền tảng chia sẻ kiến thức, ebook, dữ liệu mẫu, bài học SPSS và bài viết blog học thuật.  
